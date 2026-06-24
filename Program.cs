@@ -13,7 +13,7 @@ using System.Linq;
 
 class Program
 {
-    private static readonly string Version = "1.0.0"; 
+    private static readonly string Version = "1.1.0"; 
     private static readonly string GitHubRepo = "staryi441/NetChakerList"; 
     private static readonly string ListDir = "list";
 
