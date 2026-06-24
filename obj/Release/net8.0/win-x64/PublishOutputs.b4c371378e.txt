@@ -1,0 +1,2 @@
+D:\NetChecker\bin\Release\net8.0\win-x64\publish\NetChecker.pdb
+D:\NetChecker\bin\Release\net8.0\win-x64\publish\NetChecker.exe

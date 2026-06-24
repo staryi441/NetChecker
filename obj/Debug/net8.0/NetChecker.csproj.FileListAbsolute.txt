@@ -1,0 +1,14 @@
+D:\NetChecker\bin\Debug\net8.0\NetChecker.exe
+D:\NetChecker\bin\Debug\net8.0\NetChecker.deps.json
+D:\NetChecker\bin\Debug\net8.0\NetChecker.runtimeconfig.json
+D:\NetChecker\bin\Debug\net8.0\NetChecker.dll
+D:\NetChecker\bin\Debug\net8.0\NetChecker.pdb
+D:\NetChecker\obj\Debug\net8.0\NetChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetChecker\obj\Debug\net8.0\NetChecker.AssemblyInfoInputs.cache
+D:\NetChecker\obj\Debug\net8.0\NetChecker.AssemblyInfo.cs
+D:\NetChecker\obj\Debug\net8.0\NetChecker.csproj.CoreCompileInputs.cache
+D:\NetChecker\obj\Debug\net8.0\NetChecker.dll
+D:\NetChecker\obj\Debug\net8.0\refint\NetChecker.dll
+D:\NetChecker\obj\Debug\net8.0\NetChecker.pdb
+D:\NetChecker\obj\Debug\net8.0\NetChecker.genruntimeconfig.cache
+D:\NetChecker\obj\Debug\net8.0\ref\NetChecker.dll
