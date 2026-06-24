@@ -21,7 +21,7 @@
 
 Чтобы начать работу с последней версией программы, выполните следующие шаги:
 
-Скачивание: Перейдите в [репозиторий релизов и скачайте актуальный файл](https://github.com/staryi441/NetChecker/releases/download/1.1.0/NetChecker.exe) NetChecker.exe
+Скачивание: Перейдите в [репозиторий релизов и скачайте актуальный файл](https://github.com/staryi441/NetChecker/releases/latest/download/NetChecker.exe) NetChecker.exe
 
 Размещение: Создайте любую папку на диске C:\ (например, C:\NetChecker) и поместите туда скачанный файл.
 
